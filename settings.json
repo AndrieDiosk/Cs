@@ -18,14 +18,14 @@
     "TITLE_PATTERN": "{emojis}【 {word} 】{emojis}"
   },
   "LOGO": "",
-  "ADMINBOT": ["100077357343941"],
+  "ADMINBOT": [""],
   "EXTRAPREFIX": ["."],
   "MODERATORBOT": [],
   "exitOnError": false,
   "WEB_PASSWORD": "liaSS-web",
   "discordBotToken": "",
   "discordClientID": "",
-  "pageAccessToken": "EAAOgTbWfPRkBO35nWlNDkqi19dLOj6OMz7a1Fm6BHwtHkN0yhfMJ7HzAjYrZC6YkXQLnrC6ZCSMBA5bZBAGWsG8duQGf999AneOSXDODtruDfmdn8ORBDRiqP3aB5AdKJrgDrf3hMDlIPVJBbzkkIxelT6ApTukZC9mhs6JyjWcu2cBJZC2SYg07cDYBCf8M8jNdmGgZDZD",
+  "pageAccessToken": "EAAbMqsrQo4ABO3L7jpWTeBviNaV78bkaz8yZBN3U1GliZCTZBtLQ6DeIZBshTb3kOb2o0GhvRHZAfba5KF3201kdUhbj7O8V6CZBnKSUWOjnrwOTbkPo4ZA2og6UYVtpAy2PZB0IYg8xErYoxGrimZCjZCIa8YzKO8xeSLD2vM9pN1qGTgMmjHCUZAIqiDYtmt3lm1ZAVxlglQZDZD",
   "pageVerifyToken": "peyo",
   "mqttRestart": {
     "enabled": true,
